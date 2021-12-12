@@ -1,0 +1,21 @@
+#games {
+    background: linear-gradient(yellow 0%, green 100%);
+    width: 100%;
+    height: 1000px;
+    ;
+}
+
+
+
+.line {
+    width: 150px;
+    height: 6px;
+    background-color: black;
+    margin-top: -20px;
+}
+
+.image {
+    width: 300px;
+    height: 300px;
+    margin-left: 30px;
+}
